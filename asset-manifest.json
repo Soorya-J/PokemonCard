@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PokemonCard/static/css/main.670b11aa.css",
+    "main.js": "/PokemonCard/static/js/main.c0ba4f1d.js",
+    "static/js/453.51b12af9.chunk.js": "/PokemonCard/static/js/453.51b12af9.chunk.js",
+    "static/media/pokeball.png": "/PokemonCard/static/media/pokeball.5624f79d86c5e008fe9f.png",
+    "static/media/body-bg.jpg": "/PokemonCard/static/media/body-bg.aa13ab89f8228ae43618.jpg",
+    "static/media/bg.jpg": "/PokemonCard/static/media/bg.d6755a261087f03c1fb8.jpg",
+    "index.html": "/PokemonCard/index.html",
+    "main.670b11aa.css.map": "/PokemonCard/static/css/main.670b11aa.css.map",
+    "main.c0ba4f1d.js.map": "/PokemonCard/static/js/main.c0ba4f1d.js.map",
+    "453.51b12af9.chunk.js.map": "/PokemonCard/static/js/453.51b12af9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670b11aa.css",
+    "static/js/main.c0ba4f1d.js"
+  ]
+}
